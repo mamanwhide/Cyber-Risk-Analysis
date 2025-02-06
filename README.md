@@ -85,4 +85,5 @@ Certainty Factor adalah metode yang digunakan untuk menangani ketidakpastian dal
 ### Perbandingan
 - "Naive Bayes Classifier lebih akurat daripada Certainty Factor."
 
-## 
+## Google Colab - Link
+https://drive.google.com/file/d/1PBjeTFXp0x-U6XfqPeoNBtfONK9Ay4RG/view?usp=sharing
