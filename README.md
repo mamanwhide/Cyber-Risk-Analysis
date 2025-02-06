@@ -1,6 +1,6 @@
 # Klasifikasi Jenis Serangan Siber Menggunakan Metode Certainty Factor dan Naive Bayes Classifier
 
-##Deskripsi
+## Deskripsi
 Program ini dirancang untuk mengklasifikasikan jenis serangan siber berdasarkan dataset yang diberikan. Program menggunakan dua metode utama, yaitu **Naive Bayes Classifier (NBC)** dan **Certainty Factor (CF)**, untuk memprediksi jenis serangan. Hasil dari kedua metode kemudian dibandingkan berdasarkan akurasi yang didapatkan.
 
 ## Dataset
